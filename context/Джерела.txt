@@ -1,0 +1,83 @@
+1. Ilnyskyi J. Mathematical modeling of epidemiology and clinical laboratory manifestations of tuberculosis/ J. Ilnyskyi// Qualifying work for obtaining the degree of higher education "Doctor of philosophy" [Internet]. 2020 [cited 2020]. – Section. 3 - 5. – P. 56 - 118. Available from: https://lpnu.ua/sites/default/files/2021/radaphd/9119/ilnickiy-gi-dis.pdf
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Ministry of Health. Annual Analytical and statistical handbook. Annual Global TB Report of the Ministry of Health of Ukraine [Internet]. 2021 [cited 2021]. Available from: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiFy6WjrtiEAxVy9wIHHTkrBeEQFnoECA8QAQ&url=https%3A%2F%2Fphc.org.ua%2Fsites%2Fdefault%2Ffiles%2Fusers%2Fuser90%2FTB_surveillance_statistical-information_2021_dovidnyk.docx&usg=AOvVaw3IhYDYNB5iE3viqs0PPTV1&opi=89978449.
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3. Rohovskyi M. G. Mathematical models describing the processes of the spread of diseases/ M. G. Rohovsky// Qualifying work for obtaining the degree of higher education "Bachelor" [Internet]. 2019 [cited 2019 June]. – Section. 2 - 3. – P. 34 - 55. Available from: https://ela.kpi.ua/items/5839f81b-9fda-43dc-b2c6-ef4444d6f4d7
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. Shevchenko Y. M. Use of biological modeling to clarify the role of genes in the functioning of organisms/ Y. M. Shevchenko// Qualifying work for obtaining the degree of higher education "Master" [Internet]. 2022 [cited 2022]. – Section. 2 - 3. – P. 36 - 42. Available from: http://ekhsuir.kspu.edu/bitstream/handle/123456789/16815/Шевченко%20Ярослава_211М_Дипломна%20Робота.pdf?sequence=1&isAllowed=y
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Todoriko L.D., Andriiets O.A., Vyklyuk Y.I., Semyaniv I.O., Margineanu I., Lesnic E., Nevinsky D.V., Yeremenchuk I.V.. Prospects for the use of artificial intelligence to predict the spread of tuberculosis infection in the WHO European Region / L.D. Todoriko, O.A. Andriiets, Y.I. Vyklyuk, I.O. Semyaniv, I. Margineanu, E. Lesnic, D.V. Nevinsky, I.V. Yeremenchuk// Tuberculosis. Pulmonary infections. HIV infection – 2023. – Vol. 2(2023). – P. 86 - 90. DOI: 10.30978/TB2023-2-86
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. Zaika S.O., Loburets A.T. Mathematical modeling of the spread of viruses in local urban ecosystems/ A.T. Loburets, S.O. Zaika// Report from IV International Scientific and Practical Internet Conference "Chemistry, Ecology and Education" [Internet]. 2020 [cited 2020 May 21]. – Section. 2. – P. 71. Available from: https://reposit.nupp.edu.ua/bitstream/PoltNTU/7617/3/ІV%20%20МНПК_71.pdf
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. Bukovinian State Medical University. Annual Report of Tuberculosis. Annual Global TB Report of Bukovinian State Medical University [Internet]. 2024 [cited 2024 January 29]. Available from: https://drive.google.com/drive/folders/1RpivIgIFGlvTCNRJXSwY3A0-FRySJHvg
+
+Джерело датасету Україна
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8. Muhammad T. K., Aman C. K., Linxiang J., Shaukat I. M.,, Sajid A., Dong-Qing W. Artificial Neural Networks for Prediction of Tuberculosis Disease / T. K. Muhammad, C. K. Aman , J. Linxiang, I. M. Shaukat, A. Sajid, W. Dong-Qing// Frontiers in microbiology – 2019. – Vol. 10. – P. 5. DOI: 10.3389/fmicb.2019.00395
+
+https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.00395/full
+
+Джерело використане в Аналіз літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. World Health Organization. Datasets extracted from the WHO global TB database. Annual Global TB Report of WHO [Internet]. 2023 [cited 2023 December 11]. Available from: https://github.com/GTB-TME/gtbreport2023/blob/main/data/gtb/snapshot_2023-07-21/tb.rda.
+
+Джерело датасету ВООЗ
+
+https://github.com/GTB-TME/gtbreport2023/blob/main/doc/who_tb_dcf2023.pdf
+
+Опис до цього датасету
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10. Ottavio C. An Intuitive Explanation of LSTM / C. Ottavio// Medium [Internet]. 2022[cited 2022 February 21]. Available from:https://medium.com/@ottaviocalzone/an-intuitive-explanation-of-lstm-a035eb6ab42c
+
+Джерело для діаграми архітектури ЛСТМ
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11. https://www.sciencedirect.com/science/article/abs/pii/S1472979218300994
+
+Додаткове НЕ використане джерело для Аналізу літ джерел
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. https://unit8co.github.io/darts/
+
+Джерело для Time Series написання коду
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13.https://www.kaggle.com/competitions/covid19-global-forecasting-week-4/data?select=train.csv
+
+Джерело для датасету по ковіду
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14. https://data.who.int/dashboards/covid19/data?n=c&m49=804
+
+Джерело датасету по ковіду щотижнево з 2020 року по Україні від ВООЗ
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15. https://www.who.int/teams/global-tuberculosis-programme/tb-reports/global-tuberculosis-report-2023
+
+Джерело по туберкульозу від ВООЗ
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+16.
+
